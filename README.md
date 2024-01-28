@@ -1,2 +1,2 @@
 # best_sellers
-React_Tailwind
+React_Tailwind_Netlify
